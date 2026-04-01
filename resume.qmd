@@ -1,89 +1,81 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ethan Jensen's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ethan Raymond Jensen
+Computer Science Student | AI Engineering Minor
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:jen24008@byui.edu">jen24008@byui.edu</a>
+| 208-803-2828
+| <a href="https://www.linkedin.com/in/ethan-jensen0804">LinkedIn</a>
+| <a href="https://github.com/ejens0804/ejens0804">GitHub</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2024 - April 2027`
+__B.S. in Computer Science | Minor: AI Engineering__
+*Brigham Young University - Idaho*, Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- GPA: 4.00
+- Currently completing coursework in C++ (expected Apr 2026)
 
 
+## Skills
 
-## Awards
+__Programming Languages:__ Python, C#, C++
 
-`2012`
-President, *Royal Society*, London, UK
+__Web Development:__ HTML, CSS
 
-Associate, *French Academy of Science*, Paris, France
+__Software Engineering:__ Object-Oriented Programming, Data Structures & Algorithms
 
+__Databases:__ MySQL, SQL
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+__Tools & Other:__ Networking, Data Analysis, QPR Institute Certified
 
 
-## Occupation
+## Academic Projects
 
-`1600`
-__Royal Mint__, London
+`September 2024 - Present`
+__GitHub Project Portfolio__
+*Personal Portfolio & Academic Projects*, Rexburg, ID
 
-- Warden
-- Minted coins
+- Published GitHub Portfolio — 6+ projects including web apps, databases, OOP systems, and applied programming work: [github.com/ejens0804](https://github.com/ejens0804/ejens0804)
+- Built 3 websites, multiple MySQL databases, a Python database program, and several C# OOP projects, including an 18-class Bank Management System with a MySQL backend
+- Building five applied programming projects leveraging Rust, C++, game frameworks, SQL relational databases, and networking to strengthen multi-paradigm software engineering skills
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`October 2024`
+__BYU-I Hackathon__
+*Major League Hacking*, Rexburg, ID
 
+- Collaborated with a team of 4 developers to create a web application to help college students organize schedules
+- Learned how full-stack systems function by building a scheduling web app with a team of 4
+
+
+## Experience
+
+`September 2025 - December 2025`
+__New Student Mentor__
+*Brigham Young University - Idaho*, Rexburg, ID
+
+- Mentored 40 incoming students, boosting first-semester retention and engagement through weekly check-ins, campus tours, and resource referrals
+- Streamlined onboarding and communication with group messaging and personalized outreach, achieving 95% participation in class and on campus events
+
+`March 2024 - July 2025`
+__Amazon Delivery Associate__
+*Boise Route Works & Inland XMile*, Meridian, ID
+
+- Delivered 150+ packages per shift with 98%+ success rate, consistently meeting deadlines and safety standards
+
+`August 2023 - March 2024`
+__Electronics & Cables Manufacturer__
+*Kimco Design & Manufacturing*, Meridian, ID
+
+- Assembled 50+ electronic components per shift with 99% ROHS compliance, using technical diagrams to build cabling and equipment to IPC/WHMA-A-620 standards
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2026 -->
